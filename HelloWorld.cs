@@ -2,11 +2,12 @@
 
 namespace Projetos
 {
-    class Program
+    class HelloWorld
+
     {
         static void Two(String[] args)
         {
-        Console.Write("Oi, tudo bem?");    
+            Console.Write("Hello, World");
         }
     }
 }
