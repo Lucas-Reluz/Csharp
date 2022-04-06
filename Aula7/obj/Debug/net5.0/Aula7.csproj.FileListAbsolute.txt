@@ -1,0 +1,16 @@
+C:\Users\Pichau\Documents\ProjetosVSC\Aula7\bin\Debug\net5.0\Aula7.exe
+C:\Users\Pichau\Documents\ProjetosVSC\Aula7\bin\Debug\net5.0\Aula7.deps.json
+C:\Users\Pichau\Documents\ProjetosVSC\Aula7\bin\Debug\net5.0\Aula7.runtimeconfig.json
+C:\Users\Pichau\Documents\ProjetosVSC\Aula7\bin\Debug\net5.0\Aula7.runtimeconfig.dev.json
+C:\Users\Pichau\Documents\ProjetosVSC\Aula7\bin\Debug\net5.0\Aula7.dll
+C:\Users\Pichau\Documents\ProjetosVSC\Aula7\bin\Debug\net5.0\Aula7.pdb
+C:\Users\Pichau\Documents\ProjetosVSC\Aula7\obj\Debug\net5.0\Aula7.csproj.AssemblyReference.cache
+C:\Users\Pichau\Documents\ProjetosVSC\Aula7\obj\Debug\net5.0\Aula7.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pichau\Documents\ProjetosVSC\Aula7\obj\Debug\net5.0\Aula7.AssemblyInfoInputs.cache
+C:\Users\Pichau\Documents\ProjetosVSC\Aula7\obj\Debug\net5.0\Aula7.AssemblyInfo.cs
+C:\Users\Pichau\Documents\ProjetosVSC\Aula7\obj\Debug\net5.0\Aula7.csproj.CoreCompileInputs.cache
+C:\Users\Pichau\Documents\ProjetosVSC\Aula7\obj\Debug\net5.0\Aula7.dll
+C:\Users\Pichau\Documents\ProjetosVSC\Aula7\obj\Debug\net5.0\refint\Aula7.dll
+C:\Users\Pichau\Documents\ProjetosVSC\Aula7\obj\Debug\net5.0\Aula7.pdb
+C:\Users\Pichau\Documents\ProjetosVSC\Aula7\obj\Debug\net5.0\Aula7.genruntimeconfig.cache
+C:\Users\Pichau\Documents\ProjetosVSC\Aula7\obj\Debug\net5.0\ref\Aula7.dll

@@ -5,9 +5,12 @@ namespace Projetos
     class HelloWorld
 
     {
-        static void Two(String[] args)
+        static void a(String[] args)
         {
-            Console.Write("Hello, World");
+            for (int i = 0; i < 3; i++)
+            {
+            Console.Write(i);
+            }
         }
     }
 }

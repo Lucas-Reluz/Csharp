@@ -10,7 +10,7 @@ namespace Aula3
             Console.Write("Qual seu nome: ");
             string name = Console.ReadLine();
 
-            Console.Write("Digite sua Altura (por favor utilize virgula): ");
+            Console.Write("Digite sua Altura (por favor utilize vírgula): ");
             double height = Convert.ToDouble(Console.ReadLine());
 
             Console.Write("Digite seu peso: ");
