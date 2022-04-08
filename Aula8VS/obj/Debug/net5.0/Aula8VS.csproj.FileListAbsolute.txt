@@ -1,0 +1,16 @@
+C:\Users\Pichau\Documents\ObjetosVS\Aula8VS\bin\Debug\net5.0\Aula8VS.exe
+C:\Users\Pichau\Documents\ObjetosVS\Aula8VS\bin\Debug\net5.0\Aula8VS.deps.json
+C:\Users\Pichau\Documents\ObjetosVS\Aula8VS\bin\Debug\net5.0\Aula8VS.runtimeconfig.json
+C:\Users\Pichau\Documents\ObjetosVS\Aula8VS\bin\Debug\net5.0\Aula8VS.runtimeconfig.dev.json
+C:\Users\Pichau\Documents\ObjetosVS\Aula8VS\bin\Debug\net5.0\Aula8VS.dll
+C:\Users\Pichau\Documents\ObjetosVS\Aula8VS\bin\Debug\net5.0\Aula8VS.pdb
+C:\Users\Pichau\Documents\ObjetosVS\Aula8VS\obj\Debug\net5.0\Aula8VS.csproj.AssemblyReference.cache
+C:\Users\Pichau\Documents\ObjetosVS\Aula8VS\obj\Debug\net5.0\Aula8VS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pichau\Documents\ObjetosVS\Aula8VS\obj\Debug\net5.0\Aula8VS.AssemblyInfoInputs.cache
+C:\Users\Pichau\Documents\ObjetosVS\Aula8VS\obj\Debug\net5.0\Aula8VS.AssemblyInfo.cs
+C:\Users\Pichau\Documents\ObjetosVS\Aula8VS\obj\Debug\net5.0\Aula8VS.csproj.CoreCompileInputs.cache
+C:\Users\Pichau\Documents\ObjetosVS\Aula8VS\obj\Debug\net5.0\Aula8VS.dll
+C:\Users\Pichau\Documents\ObjetosVS\Aula8VS\obj\Debug\net5.0\refint\Aula8VS.dll
+C:\Users\Pichau\Documents\ObjetosVS\Aula8VS\obj\Debug\net5.0\Aula8VS.pdb
+C:\Users\Pichau\Documents\ObjetosVS\Aula8VS\obj\Debug\net5.0\Aula8VS.genruntimeconfig.cache
+C:\Users\Pichau\Documents\ObjetosVS\Aula8VS\obj\Debug\net5.0\ref\Aula8VS.dll
