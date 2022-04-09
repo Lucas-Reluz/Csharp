@@ -19,9 +19,9 @@ namespace Aula8VS
            
             
             primeira.Reso();
-            segunda.Assistir("Interestelar");
+            segunda.Assistir("Na segunda televisão Interestelar");
             Console.WriteLine(terceira.Barulho());
-            quarta.Assistir("Um maluco no pedaço");
+            quarta.Assistir("Na quarta televisão Um maluco no pedaço");
         }
     }
 }
