@@ -57,7 +57,7 @@ namespace ProjetosVSC
             }
             public static string Divisão(int num1, int num2)
             {
-                if (divisao0(num2))
+                if (divisao0(num1))
                 {
                     return "Não é possível dividir por zero";
                 }
@@ -65,7 +65,7 @@ namespace ProjetosVSC
 
                 bool divisao0(int num2)
                 {
-                    if (num1 <= 0)
+                    if (num2 <= 0)
                     {
                         return true;
                     }
