@@ -15,7 +15,8 @@ namespace Zoologico
                         new Gato("Gato Catel", "Cinza", "Felino"),
                         new Cachorro("Cachorro Rodrigo", "Preto", "Canidio"),
                         new Cachorro("Cachorro Bueno", "Branco", "Canídio"),
-                        new Gato("Gato Cavalcanti", "Marrom", "Felino")
+                        new Gato("Gato Cavalcanti", "Marrom", "Felino"),
+                        new Macaco("Macaco Reluz", "Preto", "Primata")
                         }
             );
 
@@ -28,8 +29,13 @@ namespace Zoologico
                 }
                 else if (animal.Classificacao == "Felino")
                 {
+                    Console.WriteLine($"{animal.Nome} é um {animal.Classificacao}");
+                    animal.Comunicar("Miauuuuuu!");
+                }
+                else if (animal.Classificacao == "Primata")
+                {
                 Console.WriteLine($"{animal.Nome} é um {animal.Classificacao}");
-                animal.Comunicar("Miauuuuuu!");
+                animal.Comunicar("HUHUHU A! A! A!");
                 }
             }
 

@@ -14,7 +14,7 @@ namespace Venda.src
 
         private Calc _calculadora;
 
-        public VendedorB(string nome, double venda, string cargo, double salario)
+        public VendedorB(string nome, double venda, double salario, string cargo)
         {
             _calculadora = new Calc();
             

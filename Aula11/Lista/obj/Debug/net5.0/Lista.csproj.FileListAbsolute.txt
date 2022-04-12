@@ -1,0 +1,16 @@
+C:\Users\Pichau\Documents\ProjetosVSC\Aula11\Lista\obj\Debug\net5.0\Lista.csproj.AssemblyReference.cache
+C:\Users\Pichau\Documents\ProjetosVSC\Aula11\Lista\obj\Debug\net5.0\Lista.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pichau\Documents\ProjetosVSC\Aula11\Lista\obj\Debug\net5.0\Lista.AssemblyInfoInputs.cache
+C:\Users\Pichau\Documents\ProjetosVSC\Aula11\Lista\obj\Debug\net5.0\Lista.AssemblyInfo.cs
+C:\Users\Pichau\Documents\ProjetosVSC\Aula11\Lista\obj\Debug\net5.0\Lista.csproj.CoreCompileInputs.cache
+C:\Users\Pichau\Documents\ProjetosVSC\Aula11\Lista\bin\Debug\net5.0\Lista.exe
+C:\Users\Pichau\Documents\ProjetosVSC\Aula11\Lista\bin\Debug\net5.0\Lista.deps.json
+C:\Users\Pichau\Documents\ProjetosVSC\Aula11\Lista\bin\Debug\net5.0\Lista.runtimeconfig.json
+C:\Users\Pichau\Documents\ProjetosVSC\Aula11\Lista\bin\Debug\net5.0\Lista.runtimeconfig.dev.json
+C:\Users\Pichau\Documents\ProjetosVSC\Aula11\Lista\bin\Debug\net5.0\Lista.dll
+C:\Users\Pichau\Documents\ProjetosVSC\Aula11\Lista\bin\Debug\net5.0\Lista.pdb
+C:\Users\Pichau\Documents\ProjetosVSC\Aula11\Lista\obj\Debug\net5.0\Lista.dll
+C:\Users\Pichau\Documents\ProjetosVSC\Aula11\Lista\obj\Debug\net5.0\refint\Lista.dll
+C:\Users\Pichau\Documents\ProjetosVSC\Aula11\Lista\obj\Debug\net5.0\Lista.pdb
+C:\Users\Pichau\Documents\ProjetosVSC\Aula11\Lista\obj\Debug\net5.0\Lista.genruntimeconfig.cache
+C:\Users\Pichau\Documents\ProjetosVSC\Aula11\Lista\obj\Debug\net5.0\ref\Lista.dll
