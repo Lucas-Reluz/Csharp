@@ -1,0 +1,16 @@
+C:\Users\Pichau\Documents\ProjetosVSC\Aula10\Zoologico\obj\Debug\net5.0\Zoologico.csproj.AssemblyReference.cache
+C:\Users\Pichau\Documents\ProjetosVSC\Aula10\Zoologico\obj\Debug\net5.0\Zoologico.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pichau\Documents\ProjetosVSC\Aula10\Zoologico\obj\Debug\net5.0\Zoologico.AssemblyInfoInputs.cache
+C:\Users\Pichau\Documents\ProjetosVSC\Aula10\Zoologico\obj\Debug\net5.0\Zoologico.AssemblyInfo.cs
+C:\Users\Pichau\Documents\ProjetosVSC\Aula10\Zoologico\obj\Debug\net5.0\Zoologico.csproj.CoreCompileInputs.cache
+C:\Users\Pichau\Documents\ProjetosVSC\Aula10\Zoologico\bin\Debug\net5.0\Zoologico.exe
+C:\Users\Pichau\Documents\ProjetosVSC\Aula10\Zoologico\bin\Debug\net5.0\Zoologico.deps.json
+C:\Users\Pichau\Documents\ProjetosVSC\Aula10\Zoologico\bin\Debug\net5.0\Zoologico.runtimeconfig.json
+C:\Users\Pichau\Documents\ProjetosVSC\Aula10\Zoologico\bin\Debug\net5.0\Zoologico.runtimeconfig.dev.json
+C:\Users\Pichau\Documents\ProjetosVSC\Aula10\Zoologico\bin\Debug\net5.0\Zoologico.dll
+C:\Users\Pichau\Documents\ProjetosVSC\Aula10\Zoologico\bin\Debug\net5.0\Zoologico.pdb
+C:\Users\Pichau\Documents\ProjetosVSC\Aula10\Zoologico\obj\Debug\net5.0\Zoologico.dll
+C:\Users\Pichau\Documents\ProjetosVSC\Aula10\Zoologico\obj\Debug\net5.0\refint\Zoologico.dll
+C:\Users\Pichau\Documents\ProjetosVSC\Aula10\Zoologico\obj\Debug\net5.0\Zoologico.pdb
+C:\Users\Pichau\Documents\ProjetosVSC\Aula10\Zoologico\obj\Debug\net5.0\Zoologico.genruntimeconfig.cache
+C:\Users\Pichau\Documents\ProjetosVSC\Aula10\Zoologico\obj\Debug\net5.0\ref\Zoologico.dll
